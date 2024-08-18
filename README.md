@@ -30,3 +30,12 @@
 - **Portfolio: Third App**
 + Displays a basic info about the app
 + Utilise the Header and Footer component from the `home` app
+
+## Support
+
+Thanks to `create-mf-app` and article [A Deep Dive into Micro Frontend Architecture with React.js](https://medium.com/@isuruariyarathna2k00/a-deep-dive-into-micro-frontend-architecture-with-react-js-264ca6edca6b) by [isuruariyarathna2k00](https://medium.com/@isuruariyarathna2k00)
+
+Used the below commands to create mfe apps
+```
+pnpx create-mf-app
+```
